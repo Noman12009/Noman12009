@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noman12009&label=Profile%20views&color=0e75b6&style=flat" alt="noman12009" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noman12009" alt="noman12009" /></a> </p>
+
 - 🔭 I’m currently working on **Web Developer as Freelancer**
 
 - 🌱 I’m currently learning **Data science and Generative AI**
